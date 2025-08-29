@@ -1,0 +1,2 @@
+# face-recognition
+Pythonの学習で作成したリアルタイム顔認証とモデル作成
